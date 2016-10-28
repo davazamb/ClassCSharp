@@ -8,7 +8,7 @@ namespace ClassCSharp
 {
     class Ejemplo8IteradorFor
     {
-        static void Main(string[] args)
+        static void Main10(string[] args)
         {
             //Iteradores o bucles: nos permite repetir una accion tantas veces.
             //en el ejemplo desde valor i = 1 y hasta i <= 10 y i++ para ir cambiando aumentando la i de uno en uno
