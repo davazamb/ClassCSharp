@@ -8,7 +8,7 @@ namespace ClassCSharp
 {
     class Ejemplo9IteradorForeach
     {
-        static void Main(string[] args)
+        static void Main11(string[] args)
         {
             //El Iterador Foreach: itera todos los elementos de una lista
         

@@ -27,6 +27,18 @@ namespace ClassCSharp
             }
 
 
+            //Ejemplo Break For
+            for (int i = 1; i <= 10; i++)
+            {
+                if (i == 5)
+                {
+                    //Ejemplo Break For
+                    //break;
+                    continue;
+                }
+                Console.WriteLine(i);
+
+            }
 
             Console.Read();
         }
