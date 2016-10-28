@@ -24,7 +24,7 @@ namespace ClassCSharp
 
         //------------------------------
         //Metodo main define un bloque
-        static void Main(string[] args)
+        static void Main7(string[] args)
         {
             string nombre = "David";
             nombre = "A.";

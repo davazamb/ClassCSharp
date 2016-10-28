@@ -48,6 +48,7 @@
     <Compile Include="Ejemplo3Operaciones.cs" />
     <Compile Include="Ejemplo4DateTime.cs" />
     <Compile Include="Ejemplo5Bloques.cs" />
+    <Compile Include="Ejemplo6Strings.cs" />
     <Compile Include="HolaMundo.cs" />
     <Compile Include="HolaMundo2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
