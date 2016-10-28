@@ -8,7 +8,7 @@ namespace ClassCSharp
 {
     class Ejemplo4DateTime
     {
-        static void Main(string[] args)
+        static void Mai6n(string[] args)
         {
             //Instancia
             DateTime fecha = new DateTime(2016, 10, 28);
