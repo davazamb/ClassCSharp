@@ -8,7 +8,7 @@ namespace ClassCSharp
 {
     class Ejemplo6Strings
     {
-        static void Main(string[] args)
+        static void Main8(string[] args)
         {
             //Subcadenas creadas
             string nombre = "David";
