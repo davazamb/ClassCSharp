@@ -8,7 +8,7 @@ namespace ClassCSharp
 {
     class Ejemplo2Persona
     {
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
             //la variable p es un objeto. inicalizar un objeto recibe el nombre de "instanciar una clase"
             //sera el constructor de la clase

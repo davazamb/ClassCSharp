@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="Ejemplo1.cs" />
     <Compile Include="Ejemplo2Persona.cs" />
+    <Compile Include="Ejemplo3Operaciones.cs" />
+    <Compile Include="Ejemplo4DateTime.cs" />
     <Compile Include="HolaMundo.cs" />
     <Compile Include="HolaMundo2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
