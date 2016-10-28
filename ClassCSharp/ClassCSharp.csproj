@@ -50,6 +50,7 @@
     <Compile Include="Ejemplo5Bloques.cs" />
     <Compile Include="Ejemplo6Strings.cs" />
     <Compile Include="Ejemplo7CondicionalesIF.cs" />
+    <Compile Include="Ejemplo8IteradorFor.cs" />
     <Compile Include="HolaMundo.cs" />
     <Compile Include="HolaMundo2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

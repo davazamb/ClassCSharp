@@ -8,7 +8,7 @@ namespace ClassCSharp
 {
     class Ejemplo7CondicionalesIF
     {
-        static void Main(string[] args)
+        static void Main9(string[] args)
         {            
             string nombre = "DavidA";
             string nombreMayuscula = "DAVIDA";
