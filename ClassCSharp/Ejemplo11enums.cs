@@ -67,6 +67,9 @@ namespace ClassCSharp
 //se agrega una clase nueva para archivar los metodos o clases
 namespace Operaciones
 {
+    /// <summary>
+    /// Estatus de las operaciones exitos y erroneas
+    /// </summary>
     public static class EstatusOperaciones
     {
         public const string _exitoso = "E123";
