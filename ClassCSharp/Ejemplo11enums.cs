@@ -40,7 +40,7 @@ namespace ClassCSharp
         #endregion
 
         #region Ejemplo2
-        static void Main(string[] args)
+        static void Main13(string[] args)
         {
             string estatusOperacion = "E123";
 
