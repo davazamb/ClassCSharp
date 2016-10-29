@@ -8,7 +8,7 @@ namespace ClassCSharp
 {
     class Ejemplo12TryCatch
     {
-        static void Main(string[] args)
+        static void Main14(string[] args)
         {
             //Trycatch: nos permite manejar una excepcion en un bloque
             int a = 1;
