@@ -8,7 +8,7 @@ namespace ClassCSharp
 {
     class Ejemplo10IteradorWhile
     {
-        static void Main(string[] args)
+        static void Main12(string[] args)
         {
             List<string> nombres = new List<string>() { "david", "maria", "pedro", "marlene" };
             
