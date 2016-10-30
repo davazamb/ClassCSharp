@@ -16,7 +16,13 @@ namespace ClassCSharp
             var v2 = new vector(new List<int> { 1, 2});
             Console.WriteLine(v2.valores.ToString());
             Console.WriteLine(v2.Dimension);
-            v2.Nombre = "vector 1";
+            //v2.Nombre = "vector 1";
+            v2[0] = 5;
+            Console.WriteLine("Indexador");
+            Console.WriteLine(v2[0]);
+            Console.WriteLine(v2.valores[0]);
+
+
             Console.WriteLine(v2.Nombre);
             Console.Read();
         }
@@ -43,6 +49,16 @@ namespace ClassCSharp
 
             //me permite definir una variable para agregarla y obtener un valor
             public string Nombre { get; set; }
+
+
+            //Indexadores: nos permite poder acceder al enecimo elemento de la coleccion
+            public int this[int i]
+            {
+                get { return _valores[i]; }
+                //value: representa el valor que le estamos asignando a una propiedad. ene este caso 5. linea 20 v2[0] = 5;
+                set { _valores[i] = value; }
+            }
+
 
             //constructor con valores en parametros
             public vector(List<int> valores)
