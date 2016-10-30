@@ -8,7 +8,7 @@ namespace ClassCSharp
 {
     class Ejemplo13Nullable
     {
-        static void Main(string[] args)
+        static void Main15(string[] args)
         {
             var persona = new Persona()
             {

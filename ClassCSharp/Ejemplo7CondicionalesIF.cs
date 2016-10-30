@@ -34,7 +34,7 @@ namespace ClassCSharp
                 Console.WriteLine("Bien");
                 Console.WriteLine("Vamos");
                 //se extrae y se crea un metodo
-                NewMethod(nombre, nombreMayuscula);
+                //NewMethod(nombre, nombreMayuscula);
             }
             else
             {
@@ -45,12 +45,12 @@ namespace ClassCSharp
         }
 
         //metodo if
-        private static void NewMethod(string nombre, string nombreMayuscula)
-        {
-            if (nombre.ToUpper() == nombreMayuscula)
-            {
-                Console.WriteLine("Los Nombres son iguales");
-            }
-        }
+        //private static void NewMethod(string nombre, string nombreMayuscula)
+        //{
+        //    if (nombre.ToUpper() == nombreMayuscula)
+        //    {
+        //        Console.WriteLine("Los Nombres son iguales");
+        //    }
+        //}
     }
 }
