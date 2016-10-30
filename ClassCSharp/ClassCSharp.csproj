@@ -48,6 +48,7 @@
     <Compile Include="Ejemplo11enums.cs" />
     <Compile Include="Ejemplo12TryCatch.cs" />
     <Compile Include="Ejemplo13Nullable.cs" />
+    <Compile Include="Ejemplo15MetodoClaseObjetos.cs" />
     <Compile Include="Ejemplo2Persona.cs" />
     <Compile Include="Ejemplo3Operaciones.cs" />
     <Compile Include="Ejemplo4DateTime.cs" />

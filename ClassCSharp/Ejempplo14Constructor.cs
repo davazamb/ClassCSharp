@@ -8,7 +8,7 @@ namespace ClassCSharp
 {
     class Ejempplo14Constructor
     {
-        static void Main(string[] args)
+        static void Main16(string[] args)
         {
             //no tiene parametros
             //var v = new vector();
